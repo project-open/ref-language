@@ -2,7 +2,7 @@
 --
 -- @author jon@jongriffin.com
 -- @creation-date 2000-11-21
--- @cvs-id $Id$
+-- @cvs-id $Id: ref-language-create.sql,v 1.5 2010/10/17 21:06:09 donb Exp $
 --
 
 
